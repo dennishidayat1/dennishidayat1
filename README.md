@@ -40,9 +40,6 @@ A decision-support application for comparing options using custom criteria, weig
 **Live Demo:**  
 https://decision-workspace-jet.vercel.app
 
-**Repository:**  
-https://github.com/dennishidayat1/decision-workspace
-
 ---
 
 ### BluGym
@@ -58,7 +55,8 @@ A full-stack gym management application for managing members, trainers, sessions
 - React frontend with TypeScript
 - Full-stack CRUD workflows
 
-<!-- Add BluGym repository and live demo links here -->
+**Live Demo:**  
+https://blugym-management-pr303b4fx-dennishidayat.vercel.app
 
 ## Professional Experience
 
